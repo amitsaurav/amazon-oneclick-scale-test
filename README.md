@@ -4,7 +4,7 @@ I have used this script to test how does "buy with one click" perform when there
 
 ## Pre-requisites
 
-This script needs nodejs, phantomjs and casperjs installed and accessible from comman line.
+This script needs nodejs, phantomjs and casperjs installed and accessible from command line. Please use the `install-all.sh` script to get setup.
 
 ## Usage
 
